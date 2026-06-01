@@ -12,6 +12,9 @@ The applications were developed as part of academic learning and personal skill 
 <img width="473" height="918" alt="image" src="https://github.com/user-attachments/assets/635d7ec1-72e5-47eb-98a0-4858a7d093e1" />
 <img width="415" height="925" alt="image" src="https://github.com/user-attachments/assets/3eda5517-5c80-4296-804d-9e46d949989d" />
 <img width="413" height="922" alt="image" src="https://github.com/user-attachments/assets/b1fbaa6c-4aa3-4adc-89d9-cba7828c9109" />
+<img width="410" height="918" alt="image" src="https://github.com/user-attachments/assets/e8e1f95b-e530-4281-a7b4-93c7331a2c19" />
+<img width="416" height="923" alt="image" src="https://github.com/user-attachments/assets/c134bdb0-332d-4b22-86fb-4c86b58372d7" />
+<img width="415" height="928" alt="image" src="https://github.com/user-attachments/assets/1f1a293a-1212-407b-a6b8-c13865f39c8d" />
 
 
 ##  Projects Included
